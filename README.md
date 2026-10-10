@@ -22,8 +22,6 @@ AI 产品 Builder / AI 产品经理方向 · 安徽大学信息管理与信息�
 
 按“正在做的任务”组织网页的 Chrome 侧边栏扩展：手动保存相关页面、恢复到独立窗口，并在关闭前核对标签归属，避免误关无关页面。已整理真实 Side Panel 人工验收、窄宽布局截图与可加载安装包。
 
-**访问状态：** 当前仓库为私有，源码、安装包和验收链接需获得访问权限。
-
 **项目重点：** 任务切换场景、浏览器权限边界、安全关闭规则、自动化与人工验收互补。
 
 [安装包与试用说明](https://github.com/icemouse0906/context-workspace/releases/tag/v0.2.0) · [真实侧边栏验收](https://github.com/icemouse0906/context-workspace/blob/main/docs/manual-acceptance-B3-2026-10-09/README.md)
